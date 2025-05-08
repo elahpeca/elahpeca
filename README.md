@@ -11,7 +11,7 @@
 - Fortran, Python, C++, SQL
 
 ### Core Tools
-- **ML Frameworks**: PyTorch, scikit-learn, TensorFlow
+- **ML Frameworks**: PyTorch, scikit-learn, TensorFlow, neural-fortran
 - **Infra**: Docker/Podman, PostgreSQL, Airflow
 
 ## 📫 Collaboration
