@@ -8,7 +8,7 @@
 
 ## 🛠️ Technical Stack
 ### Languages
-- Proficient in: **Fortran**, **Python**, **C++**, **SQL**
+- **Fortran**, **Python**, **C++**, **SQL**
 
 ### Core Tools
 - **ML Frameworks**: **PyTorch**, **scikit-learn**, **TensorFlow**, **neural-fortran**
