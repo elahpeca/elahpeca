@@ -1,21 +1,22 @@
-# Pavel | ML & Digital Forensics
+# Pavel | ML & Digital Forensics 🚀
 
-## 🔍 Research Interests   
-- **Generative Models**: Hybrid diffusion models, cross-domain adaptation, and synthetic data generation for different applications.
+## 🔍 Research Interests
+- **Generative Models**: Hybrid diffusion models, cross-domain adaptation, and synthetic data generation for diverse applications.
 - **Neural Memory Systems**: Attention-based memory networks for long-horizon planning and anomaly detection.
-- **Computational Simulations**: Emergent behavior modeling in social networks and autonomous systems, physical modeling.
+- **Computational Simulations**: Modeling emergent behavior in social networks and autonomous systems, physical modeling.
 - **Autonomous Vehicles**: Multi-agent systems, embodied AI and agent-based modeling.
 
 ## 🛠️ Technical Stack
 ### Languages
-- Fortran, Python, C++, SQL
+- Proficient in: **Fortran**, **Python**, **C++**, **SQL**
 
 ### Core Tools
-- **ML Frameworks**: PyTorch, scikit-learn, TensorFlow, neural-fortran
-- **Infra**: Docker/Podman, PostgreSQL, Airflow
+- **ML Frameworks**: **PyTorch**, **scikit-learn**, **TensorFlow**, **neural-fortran**
+- **Deployment**: **Docker**, **Podman**
+- **Data Management & Pipelines**: **PostgreSQL**, **Airflow**
 
 ## 📫 Collaboration
 
-*I'm passionate about pushing the boundaries of machine learning. My work spans theoretical research and applied projects, and I'm always open to collaborations, research groups, and experimental studies. Reach out if you're working on something interesting!*
+*I'm passionate about pushing the boundaries of machine learning through both theoretical exploration and practical application. I'm always eager to connect with researchers, teams, and individuals working on innovative projects. I'm particularly interested in collaborations involving open-source contributions, joint research papers, and the development of novel ML applications.*
 
 📧 **How to reach me:** [acephaleee@gmail.com] | [Telegram/@elahpeca]
