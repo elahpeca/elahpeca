@@ -16,6 +16,6 @@
 
 ## 📫 Collaboration
 
-*I'm passionate about pushing the boundaries of machine learning and computational forensics. My work spans theoretical research and applied projects, and I'm always open to collaborations, research groups, and experimental studies. Reach out if you're working on something interesting!*
+*I'm passionate about pushing the boundaries of machine learning. My work spans theoretical research and applied projects, and I'm always open to collaborations, research groups, and experimental studies. Reach out if you're working on something interesting!*
 
 📧 **How to reach me:** [acephaleee@gmail.com] | [Telegram/@elahpeca]
